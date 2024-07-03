@@ -1,98 +1,102 @@
-# Awesome Educational Games
-
-[<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="Awesome Educational Games" width="150">](https://en.m.wikipedia.org/wiki/Educational_game)
-
-> A curated list of awesome [educational games](https://en.m.wikipedia.org/wiki/Educational_game) to learn editors, languages, programming, etc.
-
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
-
-> [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
-
-#### Contents
-
-- [Art & Design](#art--design)
-- [Articles](#articles)
-- [CSS](#css)
-- [Editors](#editors)
-- [Languages](#languages)
-- [Math & Computer Science](#math--computer-science)
-- [Music](#music)
-- [Programming](#programming)
-
-## Art & Design
-
-- [Canon Explains Exposure](http://www.canonoutsideofauto.ca/) - Learn how to give your photographs just the right amount of light.
-- [Can't Unsee](https://cantunsee.space/) - A game where your attention to details earns you a lot of coins.
-- [Font Memory Game](https://betterwebtype.com/font-memory-game) - Recognizing different styles of fonts is one of the most challenging parts of typography.
-- [Method of Action](https://method.ac/) - A collection of games that teach you design principles.
-  - [The Bézier Game](https://bezier.method.ac/) - Bézier Curves
-  - [Color](https://color.method.ac/) - Color
-  - [Shape Type](https://shape.method.ac/) - Letter Shaping
-  - [Kern Type](https://type.method.ac/) - Kerning
-- [Pixactly](http://pixact.ly/) - A pixels test to quiz your knowledge.
-- [The Boolean Game](https://boolean.method.ac/) - Learn how to use boolean operations in Sketch, Figma, and other vector editors.
-
-## Articles
-
-- [Educational Video Games Can Boost Motivation to Learn](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by New York University.
-- [Fact or Fiction?: Video Games Are the Future of Education](https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html) - An article by Scientific American.
-- [Five Reasons to Use Games in the Classroom](https://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml) - An article by Education World.
-
-## CSS
-
-- [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
-- [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout.
-- [Flexbox Defense](http://www.flexboxdefense.com/) - Unlike other tower defense games, you must position your towers using CSS!
-- [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
-- [Flexbox with Webflow](https://www.flexboxgame.com/) - Learn and master flexbox in 28 interactive levels—without writing code.
-
-## Editors
-
-- [Open Vim](https://www.openvim.com/) - Interactive Vim tutorial.
-- [Vim Adventures](https://vim-adventures.com/) - Learning Vim while playing a game.
-- [Vim Genius](http://vimgenius.com/) - Increase your speed and improve your muscle memory with Vim Genius.
-
-## Languages
-
-- [Drops](https://languagedrops.com/) - Learn useful words and phrases in a languge of your choosing, with fun gameplay.
-- [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
-
-## Math & Computer Science
-
-- [Alligator Eggs!](http://worrydream.com/#!/AlligatorEggs) - A pen-and-paper game for children that teaches lambda calculus.
-- [CS Unplugged](https://csunplugged.org/en/) - A collection of classroom activities that teach computer science concepts without using computers.
-- [Finitris](http://www.postcrashgames.com/finitris/) - See what goes into running a regular expression.
-- [Guess The Correlation](http://guessthecorrelation.com/) - Try to guess how correlated the two variables in a scatter plot are.
-
-## Music
-
-- [Learning Music](https://learningmusic.ableton.com) - Explore the fundamentals of music via Ableton's interactive website.
-- [Learning Synths](https://learningsynths.ableton.com/) - Learn the basics of using synthesizers (or synths).
-- [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
-
-## Programming
-
-- [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
-- [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
-- [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
-- [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
-- [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
-- [Code.org](https://code.org/) - Every student in every school should have the opportunity to learn computer science.
-- [Codecademy](https://www.codecademy.com/) - Learn to code interactively, for free.
-- [CodeCombat](https://codecombat.com/) - The most engaging coding game for learning programming.
-- [CodinGame](https://www.codingame.com/start) - A challenge-based training platform where you can play with the hottest programming topics.
-- [Cube Composer](https://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
-- [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
-- [Free Code Camp](https://www.freecodecamp.org/) - An open source community that helps you learn to code.
-- [Learn Git Branching](https://learngitbranching.js.org/) - Interactive Git tutorial that emphasizes branching.
-- [Mimo](https://getmimo.com/) - Learn how to become a developer on mobile.
-- [Programming Games Wiki](http://programminggames.org/) - A long-standing catalogue of programming games through the years.
-- [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
-- [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
-- [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
-- [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
-- [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
-- [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
-- [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.
-- [Web Audio School](https://mmckegg.github.io/web-audio-school/) - Interactive WebAudio tutorials.
-- [XSS game](https://xss-game.appspot.com) - A game about tricking people into running code in their browsers.
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很棒的教育游戏</font></font></h1><a id="user-content-awesome-educational-games" class="anchor" aria-label="永久链接：超棒的教育游戏" href="#awesome-educational-games"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://en.m.wikipedia.org/wiki/Educational_game" rel="nofollow"><img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="很棒的教育游戏" width="150" style="max-width: 100%;"></a></p>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://en.m.wikipedia.org/wiki/Educational_game" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精选的精彩教育游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">列表，</font><font style="vertical-align: inherit;">用于学习编辑、语言、编程等。</font></font></p>
+</blockquote>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在贡献之前，请阅读</font></font><a href="/yrgo/awesome-educational-games/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></em></p>
+<blockquote>
+<p dir="auto"><a href="https://en.m.wikipedia.org/wiki/Educational_game" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">旨在向人们传授某些科目，扩展概念，强化发展，了解历史事件或文化，或帮助他们在玩游戏时学习技能 -</font></font><a href="https://en.m.wikipedia.org/wiki/Educational_game" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维基百科</font></font></a></p>
+</blockquote>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容</font></font></h4><a id="user-content-contents" class="anchor" aria-label="固定链接：内容" href="#contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#art--design"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">艺术与设计</font></font></a></li>
+<li><a href="#articles"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文章</font></font></a></li>
+<li><a href="#css"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS</font></font></a></li>
+<li><a href="#editors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">編輯</font></font></a></li>
+<li><a href="#languages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言</font></font></a></li>
+<li><a href="#math--computer-science"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学与计算机科学</font></font></a></li>
+<li><a href="#music"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音乐</font></font></a></li>
+<li><a href="#programming"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">艺术与设计</font></font></h2><a id="user-content-art--design" class="anchor" aria-label="固定链接：艺术与设计" href="#art--design"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://www.canonoutsideofauto.ca/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">佳能解释曝光</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 了解如何为您的照片提供适量的光。</font></font></li>
+<li><a href="https://cantunsee.space/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无法忽视</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——这是一款能够让你关注细节并赢得大量金币的游戏。</font></font></li>
+<li><a href="https://betterwebtype.com/font-memory-game" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字体记忆游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 识别不同风格的字体是排版中最具挑战性的部分之一。</font></font></li>
+<li><a href="https://method.ac/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行动方法</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一系列教您设计原则的游戏。
+</font></font><ul dir="auto">
+<li><a href="https://bezier.method.ac/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贝塞尔游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 贝塞尔曲线</font></font></li>
+<li><a href="https://color.method.ac/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">颜色</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 颜色</font></font></li>
+<li><a href="https://shape.method.ac/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">形状类型</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 字母造型</font></font></li>
+<li><a href="https://type.method.ac/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字距类型</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 字距调整</font></font></li>
+</ul>
+</li>
+<li><a href="http://pixact.ly/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pixactly——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个像素测试来测验你的知识。</font></font></li>
+<li><a href="https://boolean.method.ac/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">布尔游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 了解如何在 Sketch、Figma 和其他矢量编辑器中使用布尔运算。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文章</font></font></h2><a id="user-content-articles" class="anchor" aria-label="永久链接：文章" href="#articles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育视频游戏可以增强学习积极性</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——纽约大学的一篇文章。</font></font></li>
+<li><a href="https://www.nyu.edu/about/news-publications/news/2013/november/educational-video-games-can-boost-motivation-to-learn-nyu-cuny-study-shows-.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事实还是虚构？：电子游戏是教育的未来</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——《科学美国人》的一篇文章。</font></font></li>
+<li><a href="https://www.educationworld.com/a_curr/reasons-to-play-games-in-the-classroom.shtml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在课堂上使用游戏的五个理由</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——《教育世界》的一篇文章。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS</font></font></h2><a id="user-content-css" class="anchor" aria-label="永久链接：CSS" href="#css"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://flukeout.github.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS Diner</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 这是一个帮助您学习 CSS 选择器的小游戏。</font></font></li>
+<li><a href="http://cssgridgarden.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS 网格花园</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一款学习 CSS 网格布局的游戏。</font></font></li>
+<li><a href="http://www.flexboxdefense.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flexbox Defense</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 与其他塔防游戏不同，您必须使用 CSS 来定位您的塔！</font></font></li>
+<li><a href="http://flexboxfroggy.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flexbox Froggy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一款学习 CSS flexbox 的游戏。</font></font></li>
+<li><a href="https://www.flexboxgame.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带有 Webflow 的 Flexbox</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在 28 个交互式级别中学习和掌握 Flexbox - 无需编写代码。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">編輯</font></font></h2><a id="user-content-editors" class="anchor" aria-label="固定链接：编辑" href="#editors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.openvim.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 Vim</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 交互式 Vim 教程。</font></font></li>
+<li><a href="https://vim-adventures.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vim Adventures</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 玩游戏时学习 Vim。</font></font></li>
+<li><a href="http://vimgenius.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vim Genius</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 Vim Genius 提高你的速度并改善你的肌肉记忆。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言</font></font></h2><a id="user-content-languages" class="anchor" aria-label="固定链接：语言" href="#languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://languagedrops.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Drops</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过有趣的游戏，以您选择的语言学习有用的单词和短语。</font></font></li>
+<li><a href="https://www.duolingo.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Duolingo——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费学习西班牙语、法语和其他语言。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学与计算机科学</font></font></h2><a id="user-content-math--computer-science" class="anchor" aria-label="固定链接：数学与计算机科学" href="#math--computer-science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://worrydream.com/#!/AlligatorEggs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">鳄鱼蛋！</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ——一款教授儿童 lambda 演算的纸笔游戏。</font></font></li>
+<li><a href="https://csunplugged.org/en/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS Unplugged——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一系列无需使用计算机即可教授计算机科学概念的课堂活动。</font></font></li>
+<li><a href="http://www.postcrashgames.com/finitris/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Finitris——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看运行正则表达式需要什么。</font></font></li>
+<li><a href="http://guessthecorrelation.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">猜测相关性</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——试着猜测散点图中两个变量的相关性。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音乐</font></font></h2><a id="user-content-music" class="anchor" aria-label="固定链接：音乐" href="#music"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://learningmusic.ableton.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习音乐</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过 Ableton 的交互式网站探索音乐基础知识。</font></font></li>
+<li><a href="https://learningsynths.ableton.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习合成器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 学习使用合成器（或合成器）的基础知识。</font></font></li>
+<li><a href="https://pianu.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pianu</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 学习如何在浏览器中弹奏钢琴。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程</font></font></h2><a id="user-content-programming" class="anchor" aria-label="固定链接：编程" href="#programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://box-256.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BOX-256——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用汇编语言编写一个虚构的 CPU 来输出图形。</font></font></li>
+<li><a href="https://gitlab.com/slackermedia/bashcrawl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bashcrawl——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过玩简单的文本冒险来学习 Linux 命令。</font></font></li>
+<li><a href="https://md5crypt.github.io/clipsgame/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">剪辑游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 基于剪辑规则引擎的逻辑要求高的游戏。</font></font></li>
+<li><a href="https://www.codeavengers.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码复仇者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 学习以有趣和有效的方式构建网站、应用程序和游戏。</font></font></li>
+<li><a href="https://www.pluralsight.com/codeschool" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码学校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在舒适的浏览器中学习编码。</font></font></li>
+<li><a href="https://code.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Code.org——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每个学校的每个学生都应该有机会学习计算机科学。</font></font></li>
+<li><a href="https://www.codecademy.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codecademy——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费以交互方式学习编码。</font></font></li>
+<li><a href="https://codecombat.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CodeCombat——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最具吸引力的编程学习编码游戏。</font></font></li>
+<li><a href="https://www.codingame.com/start" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CodinGame——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一个基于挑战的训练平台，您可以在其中玩最热门的编程主题。</font></font></li>
+<li><a href="https://david-peter.de/cube-composer/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube Composer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一款受函数式编程启发的益智游戏。</font></font></li>
+<li><a href="https://deadlockempire.github.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">死锁帝国</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用并发解决难题。</font></font></li>
+<li><a href="https://www.freecodecamp.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费代码营</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一个帮助您学习编码的开源社区。</font></font></li>
+<li><a href="https://learngitbranching.js.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习 Git 分支</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 强调分支的交互式 Git 教程。</font></font></li>
+<li><a href="https://getmimo.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mimo——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解如何成为移动开发人员。</font></font></li>
+<li><a href="http://programminggames.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程游戏维基</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 多年来编程游戏的长期目录。</font></font></li>
+<li><a href="https://regexone.com/lesson/introduction_abcs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RegexOne</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过简单、交互式的练习学习正则表达式。</font></font></li>
+<li><a href="https://alf.nu/ReturnTrue" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ReturnTrue</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在这款游戏中，您可以了解布尔值，返回 true 即可获胜。</font></font></li>
+<li><a href="https://screeps.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Screeps——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">世界上第一个面向程序员的 MMO 策略沙盒游戏。</font></font></li>
+<li><a href="https://mystery.knightlab.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 谋杀之谜</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在练习数据库技能的同时解决犯罪问题。</font></font></li>
+<li><a href="https://www.apple.com/swift/playgrounds/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Swift Playgrounds</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以一种非常有趣的方式学习在 iPad 上编码。</font></font></li>
+<li><a href="https://alexnisnevich.github.io/untrusted/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不受信任</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在玩 JavaScript 冒险游戏时学习。</font></font></li>
+<li><a href="https://github.com/olistic/warriorjs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WarriorJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 JavaScript 编写一个战士程序，让他爬上高塔，与怪物战斗并拯救俘虏。</font></font></li>
+<li><a href="https://mmckegg.github.io/web-audio-school/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Web Audio School</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 交互式 WebAudio 教程。</font></font></li>
+<li><a href="https://xss-game.appspot.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XSS 游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一种诱骗人们在浏览器中运行代码的游戏。</font></font></li>
+</ul>
+</article></div>
